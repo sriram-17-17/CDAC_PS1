@@ -8,9 +8,8 @@ Traditionally, oral cancer screenings have been conducted by dentists during rou
 Thus, detection of cancer through identification of biomarkers present in the breath, saliva and urine of patients and those at high risk is a very safe, reliable and a comparatively inexpensive method.
 It has also been found that healthcare professionals can be easily trained to collect satisfactory samples for testing due to the simplicity of the equipment used.
 
-Project Objectives
+# Project Objectives
 
-To study and understand the different detection methods for oral and lung cancer using volatile organic compounds (VOCs) that are released while breathing.
-To develop a machine learning model to diagnose oral cancer and lung cancer with the help of VOCs that are identified in the breath sample of a patient
-
-We were given 9 papers on oral cancer and lung cancer detection. In this report, we will explain  our objectives, the methodologies we have studied, and the results we have obtained so far. We will mainly discuss the potential impact of a VOC based non invasive approach on early cancer diagnosis.
+- To study and understand the different detection methods for oral and lung cancer using volatile organic compounds (VOCs) that are released while breathing.
+- To develop a machine learning model to diagnose oral cancer and lung cancer with the help of VOCs that are identified in the breath sample of a patient and images that are provided to us
+ 
